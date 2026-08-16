@@ -77,7 +77,7 @@ The data is transformed into analytics-ready models following a **staging → ma
 
 ## Dashboard
 
-![Zomato Order & Sales Analytics Dashboard](dashboard/zomato_dashboard.png)
+![Zomato Order & Sales Analytics Dashboard](https://github.com/priyesh7998/elt-zomato-order-sales-analytics-aws-snowflake-dbt-airflow-power-bi/blob/main/dashboard/dashboard_01.png)
 
 The Power BI dashboard provides KPI cards, city-wise sales distribution, monthly sales/order trends, delivery-time analysis, and discount metrics.
 
